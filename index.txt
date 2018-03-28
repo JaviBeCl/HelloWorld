@@ -1,0 +1,13 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: A2B0-331A
+
+ Directorio de C:\Users\Javi\Desktop\JavaProject1
+
+28/03/2018  11:52    <DIR>          .
+28/03/2018  11:52    <DIR>          ..
+27/03/2018  16:04               901 hello.class
+27/03/2018  16:04               185 hello.java
+28/03/2018  11:52                 0 index.txt
+28/03/2018  11:29               473 lista.txt
+               4 archivos          1.559 bytes
+               2 dirs  207.807.885.312 bytes libres
